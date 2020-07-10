@@ -6,5 +6,9 @@ Create for the DevIUS club. Thiis is an informal page which does not need backed
 
 Vanilla CSS, JS and HTML
 
+## LIve verion
+
+https://devius.netlify.app/
+
 ## Made by
 - Adem Dugalić
